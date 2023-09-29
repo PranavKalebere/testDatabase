@@ -1,0 +1,10 @@
+C:\VSCode\Database1\Database1\bin\Debug\Database1.dacpac
+C:\VSCode\Database1\Database1\bin\Debug\Database1.dll
+C:\VSCode\Database1\Database1\bin\Debug\Database1.pdb
+C:\VSCode\Database1\Database1\obj\Debug\Database1.sqlproj.AssemblyReference.cache
+C:\VSCode\Database1\Database1\obj\Debug\Model.xml
+C:\VSCode\Database1\Database1\obj\Debug\refactor.xml
+C:\VSCode\Database1\Database1\obj\Debug\postdeploy.sql
+C:\VSCode\Database1\Database1\obj\Debug\predeploy.sql
+C:\VSCode\Database1\Database1\obj\Debug\Database1.dll
+C:\VSCode\Database1\Database1\obj\Debug\Database1.pdb
